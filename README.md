@@ -1,5 +1,5 @@
 # MapReduce
-Simple Map Reduce project using Scala and Akka. Map Reduce function identifies proper names in the links provided.
+Simple Map Reduce project using Scala and Akka. Map Reduce project identifies proper names in the links provided in client > client.scala.
 
 # To use
 - Update client.scala file to include the desired title and link pairs.
